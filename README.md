@@ -11,3 +11,6 @@ The implementation covers the following points:
   5. Implementation of mini-batching, padding for NLP tasks
 
 The project implements a simple Sentiment Analysis Classifier using Kaggle Sentiment Analysis competition data.
+
+## Resources
+  1. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
