@@ -1,5 +1,5 @@
 # lstm-tensorflow
-Implementation of Long Short Term Memory networks in Tensorflow
+Implementing Long Short Term Memory (LSTM) networks in Tensorflow
 
 The aim of the project is to implement the forward pass from scratch for a LSTM using Tensorflow.
 
