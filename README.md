@@ -7,8 +7,9 @@ The implementation covers the following points:
   1. Workflow for building and using the computational graph in Tensorflow
   2. LSTM implementation and application
   3. How to create summaries in Tensorflow. There is an example of manually adding summaries as well.
-  4. Visualizing and adding word embeddings to Tensorboard
-  5. Implementation of mini-batching, padding for NLP tasks
+  4. Training word embeddings as an additional layer in the front of the NN
+  5. Visualizing and adding word embeddings to Tensorboard
+  6. Implementation of mini-batching, padding for NLP tasks
 
 The project implements a simple Sentiment Analysis Classifier using Kaggle Sentiment Analysis competition data.
 
